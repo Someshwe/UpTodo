@@ -14,6 +14,71 @@ A feature-rich Flutter application for managing tasks, notes, and personal produ
 - **Splash & Onboarding**: Beautiful welcome screens for first-time users
 - **State Management**: Robust state management using Provider pattern
 
+## 📥 Download & Installation
+
+### 📱 For Users
+
+Choose your platform to download UpTodo:
+
+#### Android
+- **Google Play Store**: [Coming Soon](#)
+- **Direct APK Download**:
+  1. Download the latest APK from [Releases](https://github.com/your-repo/releases)
+  2. Enable "Unknown Sources" in Settings → Security
+  3. Open the APK file and tap "Install"
+  4. Launch the app and start managing your tasks!
+
+**Requirements**: Android 6.0 or higher
+
+#### iOS
+- **Apple App Store**: [Coming Soon](#)
+
+**Requirements**: iOS 12.0 or higher
+
+#### Web
+- Access UpTodo online: [Coming Soon](#)
+- No installation required, works in any modern web browser
+
+#### Desktop (macOS, Windows, Linux)
+- Available through platform-specific installers
+- Download from [Releases](#)
+
+### System Requirements by Platform
+
+| Platform | Minimum Version | Storage | RAM |
+|----------|-----------------|---------|-----|
+| Android | 6.0+ | 50 MB | 2 GB |
+| iOS | 12.0+ | 50 MB | 2 GB |
+| Web | Any Modern Browser | N/A | N/A |
+| Windows | 10+ | 50 MB | 2 GB |
+| macOS | 10.14+ | 50 MB | 2 GB |
+| Linux | Ubuntu 18.04+ | 50 MB | 2 GB |
+
+### Quick Start Guide (After Installation)
+
+1. **Launch the App**: Tap the UpTodo icon on your home screen
+2. **Complete Onboarding**: Follow the welcome tutorial
+3. **Create Your First Task**: Tap the "+" button to add a new task
+4. **Organize**: Use categories and priorities to organize your tasks
+5. **Sync Data**: Your data is automatically saved locally
+
+### Troubleshooting Installation
+
+**App won't install?**
+- Clear Play Store cache: Settings → Apps → Play Store → Storage → Clear Cache
+- Free up at least 100 MB of storage space
+- Try downloading again
+
+**App crashes on startup?**
+- Restart your device
+- Uninstall and reinstall the app
+- Check if your device meets the minimum requirements
+
+**Data not saving?**
+- Ensure you have sufficient storage space
+- Grant the app permission to access storage
+- Restart the app
+
 ## 🎯 Project Structure
 
 ```
